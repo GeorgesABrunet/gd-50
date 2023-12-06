@@ -27,5 +27,3 @@ Assignment 9: Dreadhalls
 
 Assignment 10: Portal
 
-
-I hope that if any certificate candidates find this, they do not simply copy the code here. These are simply for anyone interested in the mechanisms of gameplay implementations or those seeking to play around with the concepts behind these games.
